@@ -1,6 +1,13 @@
 # Hi there, I'm Jaus_Hwang
 
 ---
+![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat-square&logo=gentoo&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Wm-xmonad-informational?style=flat-square&logo=freedesktopdotorg&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Bars-polybar-informational?style=flat-square&logo=cpanel&logoColor=white&color=cyan)
+![](https://img.shields.io/badge/Colors-Nord-informational?style=flat-square&logo=chocolatey&logoColor=white&color=cyan)
+![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=green)
+
+---
 
 [![26hz's github stats](https://github-readme-stats.vercel.app/api?username=26hz&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa)](https://github.com/anuraghazra/github-readme-stats)
 
