@@ -10,7 +10,7 @@
 [![26hz's github stats](https://github-readme-stats.vercel.app/api?username=26hz&layout=compact&title_color=88C0D0&bg_color=3B4252&text_color=E5E9F0)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-![](https://komarev.com/ghpvc/?username=pavponn&style=flat-square&color=A3BE8C)
+![](https://komarev.com/ghpvc/?username=26hz&style=flat-square&color=A3BE8C)
 [![Email Badge!](https://img.shields.io/badge/-Mail-BF616A?style=flat-square&logo=minutemailer)](mailto:jaus_hwang@88.com)
 [![Github Badge!](https://img.shields.io/badge/-26hz-A3BE8C?style=flat-square&logo=github&link=https://github.com/26hz/)](https://www.github.com/26hz/)
 [![Telegram Badge!](https://img.shields.io/badge/-Jaus-88C0D0?style=flat-square&logo=telegram&logoColor=88C0D0&link=https://t.me/Jaus_Hwang/)](https://t.me/Jaus_Hwang/)
