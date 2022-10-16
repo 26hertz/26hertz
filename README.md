@@ -1,4 +1,4 @@
-# Hi there, I'm Jaus_Hwang
+# Hi there, I'm Hertz Hwang
 ---
 [![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat-square&logo=gentoo&logoColor=ECEFF4&color=B48EAD)](https://www.gentoo.org/)
 [![](https://img.shields.io/badge/Wm-xmonad-informational?style=flat-square&logo=freedesktopdotorg&logoColor=ECEFF4&color=88C0D0)](https://xmonad.org)
@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=ECEFF4&color=A3BE8C)](https://neovim.io)
 ---
 [![](https://komarev.com/ghpvc/?username=26hz&style=flat-square&color=81A1C1)](https://github.com/26hz/)
-[![Email Badge!](https://img.shields.io/badge/-Mail-BF616A?style=flat-square&logo=minutemailer)](mailto:jaus@jaus.cc)
+[![Email Badge!](https://img.shields.io/badge/-Mail-BF616A?style=flat-square&logo=minutemailer)](mailto:hertz@26hz.com.cn)
 [![Github Badge!](https://img.shields.io/badge/-26hz-A3BE8C?style=flat-square&logo=github&link=https://github.com/26hz/)](https://www.github.com/26hz/)
 [![Telegram Badge!](https://img.shields.io/badge/-Jaus_Hwang-88C0D0?style=flat-square&logo=telegram&logoColor=88C0D0&link=https://t.me/Jaus_Hwang/)](https://t.me/Jaus_Hwang/)
 ---
