@@ -9,6 +9,6 @@
 [![](https://komarev.com/ghpvc/?username=26hz&style=flat-square&color=81A1C1)](https://github.com/26hz/)
 [![Email Badge!](https://img.shields.io/badge/-Mail-BF616A?style=flat-square&logo=minutemailer)](mailto:hertz@26hz.com.cn)
 [![Github Badge!](https://img.shields.io/badge/-26hertz-A3BE8C?style=flat-square&logo=github&link=https://github.com/26hertz/)](https://www.github.com/26hertz/)
-[![Telegram Badge!](https://img.shields.io/badge/-Hertz_Hwang-88C0D0?style=flat-square&logo=telegram&logoColor=88C0D0&link=https://t.me/Hertz_Hwang/)](https://t.me/Hertz_Hwang/)
+[![Telegram Badge!](https://img.shields.io/badge/-Hertz_Hwang-88C0D0?style=flat-square&logo=telegram&logoColor=26A5E4&link=https://t.me/Hertz_Hwang/)](https://t.me/Hertz_Hwang/)
 ---
 [![26hertz's github stats](https://github-readme-stats.vercel.app/api?username=26hertz&layout=compact&title_color=88C0D0&bg_color=3B4252&text_color=E5E9F0)](https://github.com/anuraghazra/github-readme-stats)
