@@ -12,3 +12,4 @@
 [![Telegram Badge!](https://img.shields.io/badge/-Hertz_Hwang-88C0D0?style=flat-square&logo=telegram&logoColor=26A5E4&link=https://t.me/Hertz_Hwang/)](https://t.me/Hertz_Hwang/)
 ---
 [![26hertz's github stats](https://github-readme-stats.vercel.app/api?username=26hertz&layout=compact&title_color=88C0D0&bg_color=3B4252&text_color=E5E9F0)](https://github.com/anuraghazra/github-readme-stats)
+---
